@@ -9,10 +9,12 @@ Some UI Shots
 AFTER ADDING ALL THE TASK
 
 
-![Screenshot (30)](https://user-images.githubusercontent.com/110629636/198819042-70b52d06-7127-4af4-a5d4-a1cf76557236.png)
+![git 1](https://user-images.githubusercontent.com/110629636/198819161-8ffae215-de50-4330-bd27-6c1561df679c.png)
+
 
 USING REMOVE BUTTON WE REMOVE ON BY ONE
 
+![git2](https://user-images.githubusercontent.com/110629636/198819169-99a2f3b0-fd33-47cf-92f0-0ee0a5cc3919.png)
 
-![Screenshot (31)](https://user-images.githubusercontent.com/110629636/198819044-a227594d-0210-4fb5-aeba-099cf3268369.png)
-![Screenshot (33)](https://user-images.githubusercontent.com/110629636/198819048-662c2f04-4ec0-49a9-93da-511f1f3cf081.png)
+
+![git 3](https://user-images.githubusercontent.com/110629636/198819168-5d6dcbab-c77c-482a-88c2-52e9ce2fc7f5.png)
