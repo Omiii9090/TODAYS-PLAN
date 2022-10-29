@@ -4,7 +4,10 @@
 TOdays Plan  project is an application specially built to keep track of errands or tasks that need to be done. This application will be like a task keeper where the user would be able to enter the tasks that they need to do. Once they are done with their tasks they can also remove them from the list.
 
 
-Some UI Shots 
+Todays planner is very simple Apliction  created using React js.
+
+
+# Some UI Shots 
 
 AFTER ADDING ALL THE TASK
 
@@ -18,3 +21,7 @@ USING REMOVE BUTTON WE REMOVE ON BY ONE
 
 
 ![git 3](https://user-images.githubusercontent.com/110629636/198819168-5d6dcbab-c77c-482a-88c2-52e9ce2fc7f5.png)
+
+#what we can do with this app
+1.ADD YOUR EVENT AND TIME SO THAT ITS FORM A LIST OF THRM
+2. YOU ABLE TO REMOVE THAT EVENT AND TASK AFTER YOUR WORK DONE
